@@ -1,0 +1,20 @@
+===== STUDENT REPORT =====
+
+Name: Aayushi
+Course: Python
+Marks: 85
+
+Name: Rahul
+Course: Python
+Marks: 90
+
+Name: Riya
+Course: Python
+Marks: 88
+
+Name: Aman
+Course: Python
+Marks: 92
+
+Total Students: 4
+Average Marks: 88.75
